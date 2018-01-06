@@ -1,0 +1,3 @@
+class Dosen extends Pegawai{
+	
+}
